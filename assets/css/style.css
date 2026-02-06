@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f14;
+  color: #fff;
+}
+
+.nav a {
+  margin: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.page {
+  padding: 60px;
+}
+
+.gallery img {
+  width: 250px;
+  margin: 10px;
+}

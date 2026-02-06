@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  .page {
+    padding: 20px;
+  }
+
+  .gallery img {
+    width: 100%;
+  }
+}
